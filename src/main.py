@@ -14,7 +14,7 @@ import sys
 import time
 from datetime import datetime, timezone
 
-from . import config, state, telegram
+from . import config, state, telegram, translate
 from .models import NewsItem
 from .sources import anthropic_news, google_news, newsapi
 
@@ -110,6 +110,7 @@ def run() -> int:
     posted = 0
     errors = 0
     for idx, item in enumerate(to_post):
+        translate.translate_item(item)  # to Russian; falls back to original on failure
         if telegram.send_message(item):
             seen_list.append(item.uid)
             seen_set.add(item.uid)

@@ -111,6 +111,21 @@
     "https://anthropic.com/news/chris-olah-pope-leo-encyclical",
     "https://anthropic.com/news/widening-conversation-ai",
     "https://anthropic.com/news/anthropic-kpmg",
-    "https://anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
+    "https://anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaaGlNU1BTa0ZESnJCcWhQVnB6anhtUDJOU28wYVhGTEJNcnNUbWdIeFRyUGpzMkFhR0dMbmg5Y2lCa3JHcDBmQ1NGYnZRcjJhOWdMMHVHUHp1V2dmZmtRcU9qTVpCOXM?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sT0RLX2s1V19uaTlfN0w3NkhVX21TSEo3ZVR4VS10cEoxSThUT3dBR0NZTEptU0VIcERGcXB5SFZ3T1lPN1VxX1dTVngxVU55MEI3NzNWNm9PdFI4V1ZpVUlITQ?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UT25PT2ZVemEyNW5mY0RnYjlHa0NhUGw4cVlZWUNaaDdySnRMMXZXZVJMcHRKN25kRzBsVzNINFhUSHhmTGI4MU5JUDEtUVFLcEktM1VvbUZCc1RKUkhwcTFWY3gyWEdQMGZN?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0doV1kwMjNqRXZpN2p3b2l4c29ZQWoxaldrR010dUg4eE0tZU8tYS1WTkxwd1Z0QzZja280eHdzeW5hRi1KZVBmTW5PallsM0pWUGVUWXlhczZ6Tkk5SXhzLW5SY29DSmRzRXhMWGhZZVI4VTlOZ1gzNWRYX2hBemNGdzNTU1VzZ2lTUS1EVU5Qa1QwVmFGSWVGZ1pnUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdlBRc3JUSjFUZGF2Y1lLX2s3bkNmZDFWaG41Vk9wbTJfZm8zX2dJc1VWZm5MbkhYWG5LT280R3VwTnpZSVZwWkhaNHZCb2p2LVI4Wm16LTVsaERaUXpfTV9tbzhZa2lkR0hBdTJQXzM1RGMxY3NIV05mdndzMnFPSUZXV0Y3aTBKQnNOdlNjQWVpRlhnWWN1VlBvMDI3Y1F4V19rOGlvQ2NYSU9wbC1MVlhJeDl1dGFPQWc?oc=5",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3ZmeXE5cy0zbU1fZ1dTMjhSZWoxZkVGZHVpbDd0NVAzejJ1Nk9teTZWWExPQ3dkTlNUd2xMQW94djRHOGVta3ByS3ZHMkVxeUZaemFJQmRJa2gxanpySFlxN2l6LWxsZHlacEZmdlZCNVR1RjBmZkx5S0N0OHZRNVA4YjFiWjU4V3dvZDNFbTM4dlRGd2N4YjYzYi1EZ0lGeE45YWgzWGJCWTlKQUdKWEh3?oc=5",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcEVNVkZEUDM2am1YbW1Pa2FjT280VGJuck5yYUZKV3pxcVlrRk9kcFpuWklGYXBGWmE1SFdpS0t3S21HOUt5QXRwcEo0QjRDcXlFRk1GVGlfV0YyUjNONEtmTWF2c3VxTjZLeDduaHNCbEx0aHg5cDBKR25OTHhpSHpobk5GdTRFNkUzbGVITzdjUG5hb3c?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1BnVzZ4SDBUU3ViRHFmWXZsX042NzFEQ2hzQ0ctNlAyN1RYal9hWXYtZWVhamJxSlQ1TzNhUzJCMlVhME1sZThiemNLckFRZm5abkZKd0tMMGlNZV9DMEFaall3c2J1U2JGdHk1RG9tYXJrc280bl9CZWdvNThrSXZFNXpYR0JnYU9aUzFuQWRmZw?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ1ZNT25lM0JBM3h2cnY5VkNkbjZ4SS1UdW1CS1JHaThxbDJoYUUxRkQwVnpXNmQzdHZIYTk2UkxhNkprRUI1Q2NTMHdlXzY1VDdOQy1kdlZDX2lLWk5GMlpmVHE5NlZGV2dMOXo1UGk3U3dwUjJmamFqN3lNLWMzYXc0amxrRVM1c0gwT2NCblRlQl9YLW1QeGJqeWotZ9IBowFBVV95cUxQN2FIU3RsT0JkYy1xU0JTR2Z4ZE4wdmhZblViWDF5LU9DdGZTQVUtWXp2cnhsaDBTeWs2UmxKSGR4V2VHTTRXR1V3anItZmhVekc0Wmc0Z2w2WmtXSzR1UHpMOWtXbThRRkVjVTV0OXdkWXFmVlJfY21jbERBbUdfeUFqQS1ScVpubndZZWtBQ3NpT1ZNSHpjTUtBZVRoZTl1clFN?oc=5",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NUXd1SGpPTF8yNHNULW1TNlYzdXAyMHlBeTNDXzlaZktvb2l6LXM2Sl95am1TS01PTW9INmFaZmxLX2otQ0hDN0REYWZSLXZLWVlPZjhyQ00zSUx4OHktemNQRUhyenRTdjVzM1ZqRjV2b3NDRDRR?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNbFY2aXA3Zk9qSGdvVFhWV0R6X0dzZldwVGtOQnpRdjNRaGJSRlpUTkM1NXhqNUJKSU5EVVE5M2RDbk81TEdrZ1dTbF9tbWE5aVExeHg3eDZoQ0NCVjluU3U5cDU5OFAtY2g4VEpIZG40MkxFZkVTeUxVT1R1VzVlRVhlR1F5TDlmSWJ0aUxHSEJQSTBCSHdLMUZaZjMydw?oc=5",
+    "https://anthropic.com/news/services-track-partner-hub",
+    "https://anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-plans-to-set-ipo-price-at-135-per-share-targeting-75-billion-raise-report/articleshow/131475283.cms",
+    "https://digitimes.com/news/a20260603PD216/anthropic-funding-hbm-investment-micron-samsung-sk-hynix.html"
   ]
 }
