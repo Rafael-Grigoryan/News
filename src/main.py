@@ -14,7 +14,7 @@ import sys
 import time
 from datetime import datetime, timezone
 
-from . import config, state, telegram, translate
+from . import config, relevance, state, telegram, translate
 from .models import NewsItem
 from .sources import anthropic_news, google_news, newsapi
 
@@ -71,11 +71,13 @@ def run() -> int:
 
     raw = gather()
     batch = dedupe(raw)
+    # Drop tangential items so the channel only carries genuine Anthropic/Claude news.
+    batch = [item for item in batch if relevance.is_relevant(item)]
     fresh = [item for item in batch if item.uid not in seen_set]
     fresh.sort(key=_sort_key)
 
     log.info(
-        "summary: fetched=%d unique=%d new=%d (first_run=%s)",
+        "summary: fetched=%d relevant=%d new=%d (first_run=%s)",
         len(raw),
         len(batch),
         len(fresh),
