@@ -1,20 +1,5 @@
 {
   "seen": [
-    "https://anthropic.com/news/chris-olah-pope-leo-encyclical",
-    "https://anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
-    "https://businessinsider.com/anthropic-hiring-ai-rule-law-team-2026-6",
-    "https://channelnewsasia.com/singapore/temasek-teo-chee-hean-investing-geopolitics-conflict-middle-east-6158321",
-    "https://economictimes.indiatimes.com/news/new-updates/rbi-mpc-meeting-june-2026-date-when-and-where-to-watch-governer-sanjay-malhotra-speech-online/articleshow/131480278.cms",
-    "https://infosecurity-magazine.com/news/patch-responsibility-ai-infosec",
-    "https://thenation.com/?p=599419&post_type=article",
-    "https://fortune.com/2026/06/03/who-chris-olah-anthropic-cofounder-atheist-pope-leo-vatican-ai",
-    "https://pypi.org/project/agentlift/0.2.1",
-    "https://forbes.com/sites/ywang/2026/06/03/softbanks-masayoshi-son-becomes-asias-richest-person-amid-ai-boom",
-    "https://economictimes.indiatimes.com/news/new-updates/amid-layoffs-this-engineering-role-sees-700-surge-in-demand-offers-salaries-up-to-200000-anthropic-openai-and-mckinsey-are-hiring/articleshow/131479756.cms",
-    "https://helpnetsecurity.com/2026/06/03/anthropic-project-glasswing-expansion",
-    "https://businessinsider.com/san-francisco-housing-market-real-estate-home-prices-ai-boom-2026-6",
-    "https://economictimes.indiatimes.com/tech/artificial-intelligence/chatgpt-app-hits-1-billion-monthly-active-users-in-record-time-data-shows/articleshow/131479752.cms",
-    "https://thenextweb.com/news/deepseek-7-billion-maiden-fundraising",
     "https://exchangewire.com/blog/2026/06/03/digest-uk-ad-exports-hit-19-4bn-tencent-nears-launch-of-ai-agent-for-wechat",
     "https://pypi.org/project/trpc-agent-py/1.1.6",
     "https://uxpin.com/studio/blog/build-ux-claude-haiku-4-5-ant-design-uxpin-merge",
@@ -1999,6 +1984,21 @@
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMGJEbHUtRnhDZzN4R0J6Sm1OSVZqZzM4cFEtNGtDc1NWV0VReXpkUTZqSmNadU9JbGh6ck52cGRVTHhBUnhWSmJVd2UyX1hWelVVSUY5N1BvWnNuVnZpMk4ySFdaXzFtQWlCVFpGcldSZ29iVzFSbXFqX1NLVUdUY090QkQxTS0xLUVISTdBQ0Frdjk3Tk0wRUVPckY0Sk5BSTNVWm9nM0MxbHB4Ty1JTmNOeGhSalRqOExsWXR6bw?oc=5",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVW1OVkFBREhScmhvZTJ4SWNYUnNpWTFxQ3NCNm1GR1lqOWtzSHJjal9mREttTmZaQTZiVnV3anRJTm4xcnhHa3hmYkFPeE5ubjNYZ2hEeHRqTUJBVnE0NjJIekZzVGFGZDdpLUQyZ2NhWWRiZUV1NmlfaWdPWEw0dURmMFVfVHIyTTZheFRRV2lpUGF6Rlk2anp0TFMwZUtFQTlINnVmZUsyQnJDSUN5UGloWWVmcmNvZVpteWpfTDNnc2ZIelE?oc=5",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ3U3Q1h3VDF5djlRS20tRklmMDBodFdYaGlfTmV4TzlfTDZWdHowU0hhY0tFLWdQcE5vOUg3V1ZOX2hJRk5WaXY4eE9MV0YycTRiaXdCX1VhUEN5OGNMQkZzbU1PRW5rQ2E3akkyRWFCTHJDQWlndFMzNjEyVXlMVjdYM0dxQmduV0Q0MmlXR2F4MXlGWElqTDdjd2kyTzMwV3JCSEVDNmttdDdCeWlz?oc=5",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTWFWbnB6ckM0bkd0bGN4dHBHODdnRWxBVmtPS3hyT2RJVW5BWnp5dXEzVnhuQ0pRT2Fub1Y0Tlo5NVF1V0Y0R3BGVXVVQTV0OHMyNS1DNWt2elZNUVVaNWljUXhsVFdJaUlSdVNHb05sNVY3YU02ZjQ1UEhEVTlfUHVUeTlwR0ZoZ3VHclpWSllZVi11a0l1akxNc2NJck51TnlsYU5zT0pHTFU0b0tWN0xLNnrSAbwBQVVfeXFMTXZLcWZ5MEU4SHJqR0pPclFWYjY0RFU4QjZ6UHZPMkl0QVJlQ2NCZFlraTg5WmVQMEFMSldWSFFUaHdybW1YaElXSDUta0lNTXhWc3ZXMUF4Z3pKbUlybUJfc0dKWV8wdWZpLUplM0padUFoUVFuMTNxY1dQVnhOWm03Yy16SHdvSHhrTV91UVZtVDZhbG8yZ2ltZG53Q3R5RDdDLWw3WDZGQ1ZCc0RJWmhydFZFQ09SaVRFWl8?oc=5"
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTWFWbnB6ckM0bkd0bGN4dHBHODdnRWxBVmtPS3hyT2RJVW5BWnp5dXEzVnhuQ0pRT2Fub1Y0Tlo5NVF1V0Y0R3BGVXVVQTV0OHMyNS1DNWt2elZNUVVaNWljUXhsVFdJaUlSdVNHb05sNVY3YU02ZjQ1UEhEVTlfUHVUeTlwR0ZoZ3VHclpWSllZVi11a0l1akxNc2NJck51TnlsYU5zT0pHTFU0b0tWN0xLNnrSAbwBQVVfeXFMTXZLcWZ5MEU4SHJqR0pPclFWYjY0RFU4QjZ6UHZPMkl0QVJlQ2NCZFlraTg5WmVQMEFMSldWSFFUaHdybW1YaElXSDUta0lNTXhWc3ZXMUF4Z3pKbUlybUJfc0dKWV8wdWZpLUplM0padUFoUVFuMTNxY1dQVnhOWm03Yy16SHdvSHhrTV91UVZtVDZhbG8yZ2ltZG53Q3R5RDdDLWw3WDZGQ1ZCc0RJWmhydFZFQ09SaVRFWl8?oc=5",
+    "https://anthropic.com/news/claude-opus-4-8",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOFNzQ1NmSlNQcWFVamd2WW5yYWtldHRTN3VDakZPbjZCLXoxeF9URGpSbW1lUm55c0FtUmdlNzlyQmV2bTItcHFxREo2YjV6UVlpY3pFYmVBR2RyUmxtMEx4SlBIZU1iOGpTMVB3Zmp3di1rMWlUdVYzX0duaXRhWERFX0VhR0pDOU1yTEl1WGVlTmE2R2xycWxYMm5VUS1kWEJtX2hhSzRMMXc?oc=5",
+    "https://anthropic.com/news/expanding-project-glasswing",
+    "https://anthropic.com/news/services-track-partner-hub",
+    "https://anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU0NzeWl1ek04SU9wcjZWRE94WFR3RTd4N1BfdG9pcEhlbThtdEJCcFZZUFhMQU5RaEJJNmE1RUNfaDBvdW5mZmZSOGUyMVREYkRsUXRtQjdxNzZ5U19hMnVYQlZIMjJWVmNHeGRFVUQzdi1SeExHay1Yd0pqamczY3B5T1JmbjBlcUVJZU9KbXU0RUNMcUd2ZFIwM1NDVGlZaDdnSVAxdw?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb1p3N081SlB0MV8yMUhINXVKQ1pRTkJYRkRyRkp6Wjl4OTFfZWFSMzdfeWRBMmFhWXlEclBUZXZCb09IQmt4LWNOQmdobVdwVWp1cy00Z3JSSkZlVDdLRHZKRFkyZ3RYWjl3ODJzclo2Y0p4TGg3SmxXSEhZWmlnQnJGM0c5S2VVbU5LQmpsUXJacm1pay1R?oc=5",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZU41RXhWV0FiamMyRjZaTnBqTkVWQXFUWTJ1WEpUTS1fYkx0YXdfWm5sSVh0bmJzLTBic2piZzFJS0czbHlfSGNSSTVHMVdfb0hYRkhfM0s1VU4xemJrTHRpeDNOWFVSXzgtSFNNaG03WXNScVVybjhURTR2TmtCaUI5ZnRlaEFVT21OZU5lS2h4Wm9xU2NWYjUtaElONG4tcmhXLU1jSW1kLXp0WGJ2X0ZzVDRYdw?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ1U0WnlWbFQ0b085NmY2bl9FaXk2TzRLUnJ5SGoxMFhNbG5tYjFkSDktRUZRX3NKTlplQTV5RjVDUjNta3pudlJsbDJCbV81VE1EZ1pWS0swU2RiQW15dVlzYkJDZW5Mb1hoTDRzYW00b1ZSVkV4MUpWdTk2YUQ2R0JaVWktOE5VRk1lN1hhUmd6UlBXbUxic0xBYlBFU2YyaE03Vw?oc=5",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLWpNenQ4RTVWaVM3bGhMQVBwdUt5VVpNOWQ1U0czTU9NZENTak9uR25iY1FlUEhXdzRkQ19CcmstZlhHRmFlVElER3hsMUVGZGRWVzFUODFfX18tdjBZamk2NVFZQjJRSzZTZXlhb3hqOUEyYTBHcGZJTTZvMDRzenE0bGJIajM4S1dtUFZHaUdyV0xZQ3gxcWFEbmJTZVd5cEl3SmxNcFNxd0p3?oc=5",
+    "https://news.google.com/rss/articles/CBMijwJBVV95cUxQWTRkUHJYcWJsVDJtTlJ0NFF6bFBWNlRTWV9Xc3k2ckhESHZVd2dmU1lwQXdpNTJzN2FERDctVWxfSmU3QW5lU3ZvUjF2d3ZuMkU4YzZqTTRqS01XSmFjM1JnVHQwNlN2aU13ZDdrekg1bTVzaVkwT0NDd280VGVDV0Y4T3BNTy1PTDBMaG10czFBVDJSYTNnd3M4aENIUDFpaXR5ZXNTX1lXd3RHQXgzVkRQbjJpODBBcl9lUjlUNHVhdGhlVUllYkZqSHN5cFF5X3FXd040S0ZxQW82UkJMN3l0Rk5MNFJyelF2NGw5a25BWnhFS0VjdkhPNUlPQlRHSVpwSl9BTHJ6OFQzbWJN?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcWZZem5KQXpTMUpYMzd4SF80Vm9SN1hicUdKT1RXaDU0R3B2R0hoX082WUxNRTBHVkh4UG1fcUlpRG1hSlg5QjdPNnlaZE5tM1dTTWhNdVg4LWRBLTJzRnBaTkRWbkRDTWlCcW9PYk44N2lUYjRRMjZmbGpfSWRUcnc1eEVKOThDTjA5N0pIc2xkbVozREdaekhocU5qWW1hUWlGTm1kcw?oc=5",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSXBrWGNNZnNUa0F1TnB6eEpXOWNrbWZ0ZHRHVXpUUFExWUl2UFhCbmQwUDRjTFhKdFVUTGNXMkxreS1TdmpSc1JOWW00VVltSlRtSmpsNERYbTF4TEl6NFd0UDBhemNNVTFDd282V01BZjZxRDEzZnBnb1B4SjI3RGZlRl85RHh5ZHBkLU9abzNBVG53T0V2R2FnMS1CalZ6bkRPNEp4WmJ2QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeHVoRUp0SzZpaXhwSjNfcTR4SUlZSDhKb195QkZOQkZ3dXRsendIaHFxdWlEb1h3cldoRkt4bkdsWFVzU0pNTURjNEV0VERnLWR3bkg2U2RmeHJsR2JlcUxiN2lET2ZxQnJLdExlajg0TGs3dWFyeUp1M1FCZFIxWERxb01KMFFZQkQzdjRKYTd1SjFyOTFWZk5WU2tka0Zl?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNQ3d5QkF6T0w1cm8tUUlFTEY5enk0ZnpKazAtMUE0MThXcHh5ZmR2R1pjVjhjb2kwczJFc2tORFV5ZmNnRFl1Y3Ntd0FqVmsxeEZsaHlxblA2UHVlQS1HT0UtU1NicWR4TmR6cEdqOGRUOGszRUhwVXNYd1ByRTVlOUh0Ykw2VHRCbS1kX0Zyc1ZERGRYQVhCUzlwcU5GS1Rxbl82dHh6YkZrdjRKcjhiNm9lMi1Jb1NnNU9Lck5ZeU1WRm1CQXhDbk5GaUlvSVZDV1p5ckM2cDlHcmFoOFpfTVBoMkN3MXU2NnV3RDNhQUhZOEwtU2tyRER4dG9HUHVpQ0lrRWtJVTE?oc=5"
   ]
 }
