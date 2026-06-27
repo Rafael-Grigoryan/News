@@ -1,10 +1,5 @@
 {
   "seen": [
-    "https://pypi.org/project/agent-framework-anthropic/1.0.0b260604",
-    "https://alltoc.com/tech/what-is-anthropics-recursive-self-improvement-progress",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE02RUZrVHJIX0ozRVVjV2NCT0lpQUdhVlFKTjdBV3lkcm42QmVWazZwWThzNEZDM2REZ0tLMjhfVWd1X2tZSExESXAzdE9ZaU8wdjliRndpV3N4RFh4U2d2a1ZqbzBwY2VKUDBXcXR3M3NHQWNzVVVlWU5n?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrUVp3UmVlYUxwckVqWDF3VVN1YkprQldkWTZnX19ISE1KLVo4eFRQNWRKZTV4NHRJVWNTekk5MW9BaUVxQlZGc2ota0hKZ0NGZ2VUeHMxUThfell2TWJBYml1dmtvS2cwQXFDM3h0c3JKQTZpa1dpY2IxQVFYZw?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeDE4NGFoVGg2b1djMWxETk5KaURKR1d3SnFjbkQ2dmxkX0hyd2x5a2xaRnc2Wkk5cGpZNl9SdjR4Z2c3RXdZTGdWSmt4TDJMUVpHa2NPT0ltVWVkVzNnQjloMGFBbURVci0zbVYtUVNvaTZlMHNFSklCY0Z5UndvLVI2dU1wZ2NUaE1RQ0FIdnZvRXlpRFdyVFZNR3pBV040T1lR?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSDBjNWRscG40YjNuQzBiN2ZMcE5jU1pkNU1KY2FKaHdxZC1sa1pRQjhSNFBZWlQwaXVXTV95bjBNaFJoMkhmUlFTbkNZNWJlZFc0dDg1eUl2UFIxeXlRd1dTdVJ1cUtHR05qUUhjOW5rVmgyU3Z6SjZNTUdaejFJOTBlUzdkd3hyY0hnRTVTTHVUcmtQTXdYY3gtVDhqUkoyeVNjYXh0WQ?oc=5",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03M1pjaGtYNGI1S3hoSkpvOWlqZW9YV3lwQmQ4WERWbzZ1MkE1ZmkwR2NrTnNBOW1MX3JuMU44QzFzeGdCWEYzUkxWSkZkN3hXWmF2cnQ4cnVxZ3B2bm9XWHZ3?oc=5",
     "https://economictimes.indiatimes.com/news/morning-brief-podcast/morning-brief-podcast-anthropic-goes-public-can-markets-justify-a-1-trillion-value/podcast/131519096.cms",
@@ -1999,6 +1994,11 @@
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUzhOQ2FSU281WHREZFVWY2VfQXZJLVVKeEJZSzFJM1daRUZHX1ZxU3J3dDFmUUducGlmN1JCM1pqZk1SS1haNHZmZnZ0S0ZIUDc0em1ERHVtb0c1bDZmejgzUm9kcXdFbTFlSjNNckhDNE9WNVVfd0RfTjRCNC1ObzJCOGk2UQ?oc=5",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTFliY2RXZGpraEk0TXdJS0FkS1pncjg0NlFyVEVxYnI1Um9Rbzc0WGFJSERhTHNkUEdTMUFQZGlxRzFheU9DYnFReE5HNzZNREgwa3hpdlZ3Q01HQ0hPOF9tOEg5OXgwZ1o0VlFjWVliRUVfYW9WVzNQdHJQSUNYbHhXdzY0X1plM1ZNSg?oc=5",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxPdHlIbDZ4WkhlTXAwTEJOZ2VUdk9QR0lJMEMzNHdyRzFOaFhwMmgwelh0NTJWMjZHX0VYcEQ3eUNSWGVfOG41VVhXQW5zY1BQdHp2bWEzOFVmSmFIMVFrMDdsUlJSRzg2TVNyYk1CU2gwQ0dzUVdGTW5kRXVqa08wRGk4TVRkV2t0Q0hGQ29PVmFkLUJxVTAtWTd6NXREUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uaUhRc3NLbUNrSlJWSWsxVFNCblZuUmVTb2p1Tk04N0ZhejhlRWhmVTI4eWZnUndIT2d5ZUtzeThPaTZlSjhocFJnTEFJRzNqLVlxOQ?oc=5"
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uaUhRc3NLbUNrSlJWSWsxVFNCblZuUmVTb2p1Tk04N0ZhejhlRWhmVTI4eWZnUndIT2d5ZUtzeThPaTZlSjhocFJnTEFJRzNqLVlxOQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaHhOR1dFX1FiazRQV3hsVjJYME03MzFGZUZSbDEzZzM0VWFXVGhJc1UyTHNNQm1YVlc2LWRPTmpWZ2w3dG1FS2J4a0t4SEpxSlRUdGY4R2xzNVphTDBFN3p0RzFqRm0xUDM2OWN6T1Y0ZWhUZXdhb21EVmNwYTZXTU5yS195Y2dneEJSMU9oelRjelZsWWtKOFhLbzRVOGJpdWFWSXlST1pNeXl5eGp0Zk9WZXN2Zw?oc=5",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxObDczaWdEdFg4QlZXMU1hWGpxUXFSWEtQdDdYM25WOWJqQ1VVU0J4a19keXZmWkVya3FfeGRMRFZoU0c4TE0tSUp3WHRpZlhwNVVicVhnX1N2b1RtcUxCNi04MjExcGt4UFo1OFYwWmlLSmJiRjlBOGJTWjdPOG8xWVkyV0FQVV83WmVfeFZR?oc=5",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRUjZ5dVJVR1FPZENjM1Y3ZUhSaUJhdTV4b0NIX01uR08yaTRnT2Zwd0ktSXBkSmNrSmh3M3E4MjROdWZrblU2c3BNa0g5czFscGdJWDVVU2E0TVo4OFRzZFB4MjQ?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZTRtV2RuMVp5Yl93TlVoSDgweGl3cmM0dWdrTi1fZld4UVpyb1dsek5FcVJnMkRva1l6b29Fek9wMFh6Qk5PNld5bGprOGlJdl93SjgzQUJjcTlnemdnel91cG83M3FvTEJSSXhiY3ozLXJ6Qms0VjJZRll3U1Bhc0QxdkhROXNiS1oxT3Ytam5LTmc?oc=5"
   ]
 }
