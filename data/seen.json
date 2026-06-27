@@ -1,9 +1,5 @@
 {
   "seen": [
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSDBjNWRscG40YjNuQzBiN2ZMcE5jU1pkNU1KY2FKaHdxZC1sa1pRQjhSNFBZWlQwaXVXTV95bjBNaFJoMkhmUlFTbkNZNWJlZFc0dDg1eUl2UFIxeXlRd1dTdVJ1cUtHR05qUUhjOW5rVmgyU3Z6SjZNTUdaejFJOTBlUzdkd3hyY0hnRTVTTHVUcmtQTXdYY3gtVDhqUkoyeVNjYXh0WQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03M1pjaGtYNGI1S3hoSkpvOWlqZW9YV3lwQmQ4WERWbzZ1MkE1ZmkwR2NrTnNBOW1MX3JuMU44QzFzeGdCWEYzUkxWSkZkN3hXWmF2cnQ4cnVxZ3B2bm9XWHZ3?oc=5",
-    "https://economictimes.indiatimes.com/news/morning-brief-podcast/morning-brief-podcast-anthropic-goes-public-can-markets-justify-a-1-trillion-value/podcast/131519096.cms",
-    "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-says-ai-labs-need-coordinated-plan-to-halt-development-if-risks-rise/articleshow/131519224.cms",
     "https://yankodesign.com/2026/06/04/this-99-usb-c-hub-also-runs-gpt-5-gemini-and-claude-at-the-same-time-to-ai-transcribe-your-meetings",
     "https://pymnts.com/artificial-intelligence-2/2026/anthropic-calls-for-frontier-ai-freeze-to-prevent-self-building-tech",
     "https://livemint.com/companies/people/ai-needs-brake-pedal-anthropics-jack-clark-warns-ai-could-soon-build-itself-says-i-am-worried-for-my-kids-11780624050931.html",
@@ -1999,6 +1995,10 @@
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaHhOR1dFX1FiazRQV3hsVjJYME03MzFGZUZSbDEzZzM0VWFXVGhJc1UyTHNNQm1YVlc2LWRPTmpWZ2w3dG1FS2J4a0t4SEpxSlRUdGY4R2xzNVphTDBFN3p0RzFqRm0xUDM2OWN6T1Y0ZWhUZXdhb21EVmNwYTZXTU5yS195Y2dneEJSMU9oelRjelZsWWtKOFhLbzRVOGJpdWFWSXlST1pNeXl5eGp0Zk9WZXN2Zw?oc=5",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxObDczaWdEdFg4QlZXMU1hWGpxUXFSWEtQdDdYM25WOWJqQ1VVU0J4a19keXZmWkVya3FfeGRMRFZoU0c4TE0tSUp3WHRpZlhwNVVicVhnX1N2b1RtcUxCNi04MjExcGt4UFo1OFYwWmlLSmJiRjlBOGJTWjdPOG8xWVkyV0FQVV83WmVfeFZR?oc=5",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRUjZ5dVJVR1FPZENjM1Y3ZUhSaUJhdTV4b0NIX01uR08yaTRnT2Zwd0ktSXBkSmNrSmh3M3E4MjROdWZrblU2c3BNa0g5czFscGdJWDVVU2E0TVo4OFRzZFB4MjQ?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZTRtV2RuMVp5Yl93TlVoSDgweGl3cmM0dWdrTi1fZld4UVpyb1dsek5FcVJnMkRva1l6b29Fek9wMFh6Qk5PNld5bGprOGlJdl93SjgzQUJjcTlnemdnel91cG83M3FvTEJSSXhiY3ozLXJ6Qms0VjJZRll3U1Bhc0QxdkhROXNiS1oxT3Ytam5LTmc?oc=5"
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZTRtV2RuMVp5Yl93TlVoSDgweGl3cmM0dWdrTi1fZld4UVpyb1dsek5FcVJnMkRva1l6b29Fek9wMFh6Qk5PNld5bGprOGlJdl93SjgzQUJjcTlnemdnel91cG83M3FvTEJSSXhiY3ozLXJ6Qms0VjJZRll3U1Bhc0QxdkhROXNiS1oxT3Ytam5LTmc?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0doV1kwMjNqRXZpN2p3b2l4c29ZQWoxaldrR010dUg4eE0tZU8tYS1WTkxwd1Z0QzZja280eHdzeW5hRi1KZVBmTW5PallsM0pWUGVUWXlhczZ6Tkk5SXhzLW5SY29DSmRzRXhMWGhZZVI4VTlOZ1gzNWRYX2hBemNGdzNTU1VzZ2lTUS1EVU5Qa1QwVmFGSWVGZ1pnUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi_AFBVV95cUxONWY5Tm53alVGNWVSVWdwc3FKQ0t1a0xkaG5iRXFxb0M5bzY5V3dJNGxhaFRSeVgyU1hUR20wOUZYWnhLaFJiMklEWFBIV1JoOW5oRUc0UHYxS2JjVlhrOV9WUElidWRLUW96MzFmODVlLVYyV3NUcmh6c2ZnZmJUb3RJbjQyRXM4Y2lVWHJ2ZkkyZWN3Mm10bGFLanhJQmFMTGdaZTRqY1RXTEhCRXJXUWVHTjNtY091elF5SjdrWTBzdC1XYlZ1Q2g2SHI5S3JmVTNObWFzcE1ic0J1Q1FVWWVqWTZtR1JFdkxiN2NpNFByMXV6SEdZRllyTlE?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iRTFLYlkzeVNMMmw1d2dLY0tFaFlJMDBPSk1aR1dPUEk0RS1LUmNNY1ZveW9kdS1IbDQ5Skk4SVM0ZnA0cnRLUDNadEdFSk1Yc0pDV1JNeXlnLXhSb0tsYW13Ti1QNktUZEltaXkyVXhKX29zSHF6TnZR?oc=5",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE82SDBCZWRVWFNRR1llWDFIVXVYRXVBamhMb0phaHp1ZTZQb2hFSXlUM3BNYk1rTnBORTVPeWg3ZlkzQVhBcHVubS1keGgySzVkZDN0eDhHNVVsSl92OTZYTnJ6ai1uRS1SM1A3VndMUWE?oc=5"
   ]
 }
