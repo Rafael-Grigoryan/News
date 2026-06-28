@@ -1,10 +1,5 @@
 {
   "seen": [
-    "https://wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides",
-    "https://bitcoinfoundation.org/news/ai-news/ai-new-risks",
-    "https://c-sharpcorner.com/article/how-to-integrate-claude-ai-with-net-applications",
-    "https://slashdot.org/firehose.pl?amp%3Bid=183608380&op=view",
-    "https://cnbc.com/2026/06/05/tech-download-anthropic-ipo-ai-valuations.html",
     "https://pypi.org/project/aidial-adapter-anthropic/0.11.0",
     "https://tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-now-writes-more-than-80-percent-of-its-merged-code",
     "https://slashdot.org/firehose.pl?amp%3Bid=183608670&op=view",
@@ -1999,6 +1994,11 @@
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRUs4YUVfWm9RREFRSWpZZUFmMHpKSWxLS25TVjJLQ0V4T2xEaXU1YlFMdDhvQjlqRVpZdDRQUEhfVUttOGVNOWlPc1Y5dWU0MzJuLUdBX1FOM0UtYzFKWGt1b1IwMkxsZENEZG5YNnhTOWNsOUpqTXhtQjBjcVpBUXZjNkJCYlRvVEZMckZKWnRSN1lKWE96N0NabGQ1S3FSNF9vOFB6SjFkZw?oc=5",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR0NvdW83UjE0cS1EeVA1ZUs2Yks2ODZhMkpheG9Nc2hqd0FSN3F0LUJhVjZMZ0pfOUxUMGg0dXFXeUI5a0dpOVFoOW16ZGk1d2MzM01SWFA4NnF4MVoyMkxvMmw3V0o3cDZsalRPLWpZY1IxSjBoNk52YmEyd1ZrWjBSelNrQ0h6SjRnYg?oc=5",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE12XzJUR2tKcjRZdkxPeVh6b1lGU1VITTQyRzdMbUo1Yjl3aUsyaFZPNWNWclJjbXh5Sy03QlZTR1ZIZ1lhakRWeGdSY2dfd3g0cGZNS1hGbUMyVl9Gb2xwaTVtZENISjcyeVoyUi11czVnekdGb2c?oc=5",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNODJ2OWpiS1hETGZXWVdYWWhVdVpxQlgxRlQ2a1VSWnU3OGdFUDRqdzBPVkdvcHZYMFk0M1VXN1pveGdtNFg0S251UlBWU0hzRzR6LWdWWlhJcVc2UzZIVVRNNXhYZzgtbG8wR1llY1NfTGREbnFEZDFkdjRIcVNPSl9EOHQ1Zw?oc=5"
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNODJ2OWpiS1hETGZXWVdYWWhVdVpxQlgxRlQ2a1VSWnU3OGdFUDRqdzBPVkdvcHZYMFk0M1VXN1pveGdtNFg0S251UlBWU0hzRzR6LWdWWlhJcVc2UzZIVVRNNXhYZzgtbG8wR1llY1NfTGREbnFEZDFkdjRIcVNPSl9EOHQ1Zw?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUHNTWS1OZERaMHZuNXlIMGNNNWt3RnlPNHdKM1dZeXVFSFBTR3E3ZGY2cFlQUVdHekFrSmNPSmp1MHBWTkJQVTdMbG9TZWpiWXVlYnFBWUxzNWxpdzFVdHZpUUl6LXNDVVo3TmROT01HQ3gzcWtKcDJRcnBmdGh0ZVZuS3hJU3pCb0M4SExfcGh2NVItbVNnZWxDSUMtZHhnQUlTSg?oc=5",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2ZlI1QXRKUEI4RFVCcXR5NDE5ZkotZTZuYm5ncENaTG1fSFhMN2ZCUWQydFU1M2M1THhMZHNWR2tJV2ZtUlpPOTdyOWJvUFFubl9zRy1kcVhIQW5HV2pMSnhNbG1KRWI5a3p5RzdRc2g?oc=5",
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYUphNmRCTnBwY1VzRDFmakJmNGY3VjV1SDlIS0V5ZHEyUW96Q09IbVlCNjVVMFhnV01WTlpMS24tcHNmMmxOUUhnWm40OWM4MnhJRXpMbnpDQVlEVFgydURGR0tQUXdrdElfd0h6S3NROWc3TERWQ0k0SkFyMEpZMFh6WE5CVXZlQzl4VU9sancxTnBYdkdGdG9yV2FSZ0RsYVBhQ0lxMEoxdWJIQTJmV0VHQVlQbWI2SXgyNzhmZEhEcHA3NmhjcGJBZ1hlZWRPTmc?oc=5",
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcUxvakgycUFLalBkN2RHZGdGWi11aFY4U1BmMzlOdjlvVWxNVENKVDFRWXpTNl9ZQjQ3N3hRTGNNOUZXUXpCelI2SGxoeU1sS1daeUFrSEdjWnNzUEVYSHZKXzdJU2lHVXY4MXZJVFVWLWtFUmlWUTdUaC1sMnVKRm9PaEhBRmFFMW5MOTZBZDFTbE54dGJOcmhxWC1sX3puVFJYTTNfMktkV193aXEwTE9oTjJxTDJKcDJmSFQ0NkxaRG1vbk80?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxONWVnQXF3TDNlN3dXZ3VpalJUdUo4bzBvY1Q0LXVvN2lqbzRaVmVOc3JHWFFpVXF1WmZMQmJzX2c3cXV2ci1SV2dYczJCX0EySVk5bkUwcUN4anQwaGU0YmJEOGRQb1BCcndDT0NnUllacGdzdVJPWkV2Sk5CSmVWRVB2MG5pUG41TFRadGwyTHhfT0s0dTA0d0oxemZYUS1tNTBibWFRenhMZHB3R251UWFtZmlOLUVObmZnVjdxN05fclVGNlE?oc=5"
   ]
 }
