@@ -1,11 +1,5 @@
 {
   "seen": [
-    "https://yankodesign.com/2026/06/04/this-99-usb-c-hub-also-runs-gpt-5-gemini-and-claude-at-the-same-time-to-ai-transcribe-your-meetings",
-    "https://pymnts.com/artificial-intelligence-2/2026/anthropic-calls-for-frontier-ai-freeze-to-prevent-self-building-tech",
-    "https://livemint.com/companies/people/ai-needs-brake-pedal-anthropics-jack-clark-warns-ai-could-soon-build-itself-says-i-am-worried-for-my-kids-11780624050931.html",
-    "https://slashdot.org/firehose.pl?amp%3Bid=183606518&op=view",
-    "https://slashdot.org/firehose.pl?amp%3Bid=183606600&op=view",
-    "https://economictimes.indiatimes.com/news/new-updates/claude-opus-4-8-vs-gpt-5-5-whats-anthropic-ais-new-ultracode-mode-pricing-honesty-claims-and-jailbreak-debate/articleshow/131521104.cms",
     "https://pypi.org/project/copass-anthropic-agents/1.4.9",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxOekc3VXItS1dpRmVrV0xQVzc1OE5aa29STFNOMzZFSTdaS1hJZGNDRzNmSjBRTlNHSmRmX0VMVGl5V2xMOERybnpzbmNKLVBIWmdnblpWdUw2Uzlnby0za29WekNUbkZ1Mi1oWi0zbjBUcF9KZm5VRy1fRjQtcTFXOGtSWlQtb0FTV3NiTndzV1RkSzRrQXc?oc=5",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUGFDb3M2ejdac21uTFBYTGNfaFJzemNtU01NaHJiRlFHV2gzV3RhczJYUkJaOGhldUxORkU5c1BCMFNZNGlvaWN2dDBaUUFWZ1pxcXZ4Y05oc1VjX1hVUUtXdW1FUjFYeE5oQ19teWJTcXo4aUNtdnJ3NGFTc2ROaUEzdmd1OGh0QmRPRDF3Q3ZqcVBpQm9abXB2UFNMT0NQMUN6R0dDdEhsSk5zQWc4aUh0N0pBc1U5amc?oc=5",
@@ -1999,6 +1993,12 @@
     "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0doV1kwMjNqRXZpN2p3b2l4c29ZQWoxaldrR010dUg4eE0tZU8tYS1WTkxwd1Z0QzZja280eHdzeW5hRi1KZVBmTW5PallsM0pWUGVUWXlhczZ6Tkk5SXhzLW5SY29DSmRzRXhMWGhZZVI4VTlOZ1gzNWRYX2hBemNGdzNTU1VzZ2lTUS1EVU5Qa1QwVmFGSWVGZ1pnUQ?oc=5",
     "https://news.google.com/rss/articles/CBMi_AFBVV95cUxONWY5Tm53alVGNWVSVWdwc3FKQ0t1a0xkaG5iRXFxb0M5bzY5V3dJNGxhaFRSeVgyU1hUR20wOUZYWnhLaFJiMklEWFBIV1JoOW5oRUc0UHYxS2JjVlhrOV9WUElidWRLUW96MzFmODVlLVYyV3NUcmh6c2ZnZmJUb3RJbjQyRXM4Y2lVWHJ2ZkkyZWN3Mm10bGFLanhJQmFMTGdaZTRqY1RXTEhCRXJXUWVHTjNtY091elF5SjdrWTBzdC1XYlZ1Q2g2SHI5S3JmVTNObWFzcE1ic0J1Q1FVWWVqWTZtR1JFdkxiN2NpNFByMXV6SEdZRllyTlE?oc=5",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iRTFLYlkzeVNMMmw1d2dLY0tFaFlJMDBPSk1aR1dPUEk0RS1LUmNNY1ZveW9kdS1IbDQ5Skk4SVM0ZnA0cnRLUDNadEdFSk1Yc0pDV1JNeXlnLXhSb0tsYW13Ti1QNktUZEltaXkyVXhKX29zSHF6TnZR?oc=5",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE82SDBCZWRVWFNRR1llWDFIVXVYRXVBamhMb0phaHp1ZTZQb2hFSXlUM3BNYk1rTnBORTVPeWg3ZlkzQVhBcHVubS1keGgySzVkZDN0eDhHNVVsSl92OTZYTnJ6ai1uRS1SM1A3VndMUWE?oc=5"
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE82SDBCZWRVWFNRR1llWDFIVXVYRXVBamhMb0phaHp1ZTZQb2hFSXlUM3BNYk1rTnBORTVPeWg3ZlkzQVhBcHVubS1keGgySzVkZDN0eDhHNVVsSl92OTZYTnJ6ai1uRS1SM1A3VndMUWE?oc=5",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03M1pjaGtYNGI1S3hoSkpvOWlqZW9YV3lwQmQ4WERWbzZ1MkE1ZmkwR2NrTnNBOW1MX3JuMU44QzFzeGdCWEYzUkxWSkZkN3hXWmF2cnQ4cnVxZ3B2bm9XWHZ3?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNml5WThnR3JVZE1CTWF4ZHd0RWNiVjdVRWt6b0ZHNl9DM2w4YWZybm9BNE1LcmFSVFNUQzAyV21vcTY0YU5CbmVnV1lCMXhNOC01Ulh3aTQ1Ul81VWVyZW1Kall3NnVxbTVfb3R4Ulk4RnpQVWlXNlB3QVB6MHc0MldQNGJndFA0QXpiU09lVG5uME9QODdndnBNaEUyeGc?oc=5",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVFScDFiaWE0dmRBMlFJZzZacVZhT0ZLQXBkcHA1UExXT1FjRHk3LXN4YnREVHdleDR0cHl0eUxiTGdka1gxUERmYnQyd1ZiOUZEaUM5bkozSXp6RVlEWjJ6OXBZbnA5TEpPaDExd0dQUWxmbFFDSDJ3ekJTNWpCOUdlZ2U?oc=5",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41aWc0M09pdDNRUm5IQW9seU9ZamFXSkl6OTUzRU5yMVhVOXlOVGpPbmJMOGVja2F0M1BYR1I0X0FDUEdUdnhMM3BBV0k1dUFPQ1EwVlJablRvZ1UwZjNlMFZsSl8?oc=5",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11UENodVBNT19zRENrd0lUV3BfbGc1OU10cGxRRktQYWJ3aFpRQVVWRXlTTVdQRHJ0MHE2RTA2OFBVbjdxcERuZGFHZk44RXR6MURz?oc=5",
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVXlobjR6ZFFkOWFvNWZfUHhTdFFzc0w0SVJCVHNtOUt4SkFETEstSWZuV1FfRHN0ZFk1YmxSSU1XaC1zQ2QxYzFRMlI4Y3ppRFFSeUVLVzdjLWY5MEhXX0hxanpBVVBqN2hWOXBYM2RVdDNyaFJLSWwyYkU1MUo3RmF4QU4zdV9PRUg3U3FRQnMzUFliMDJWY2hiZlZXU0l6U1VTdjJkNjJCdk84MWd6eXpyZGM4UHpFMF9vTw?oc=5"
   ]
 }
